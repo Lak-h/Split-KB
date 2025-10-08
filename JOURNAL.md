@@ -18,3 +18,9 @@ Lakshya Sharma
 ![1.PNG](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODcyLCJwdXIiOiJibG9iX2lkIn19--dd35761d315b08c818ae3a96baa57701a4913628/1.PNG)
 This took me a bit of time since I'm new to building hardware but this gave me some confidence to overtake the split keyboard  
 
+## 10/8/2025 - Followed the guide   
+
+I followed the guide and got the parts down, but before I start doing the layout and routing I'm going to make some edits so  I can guide the keyboard towards the changes I want to make independent of the guide, I'll most likely add some more components.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6cc5f10570e418f15c1286225a724969f8fbd1ce/image.png)
+ I did some research about the items I want to add (haptic feedback) and it's criminally confusing for me so this might take sometime  
+
